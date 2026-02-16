@@ -31,13 +31,13 @@ It allows users to manage events, bookings, and related activities efficiently.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <
+git clone https://github.com/KikaniMeet/the_eventor/tree/main
 cd the_eventor
-
-### 2️⃣ Create Virtual Environment
+### 
+###  2️⃣ Create Virtual Environment
 ```bash
 python -m venv venv
-
+### 
 ### 3️⃣ Activate Virtual Environment
 
 Windows:
@@ -46,19 +46,19 @@ venv\Scripts\activate
 Mac/Linux:
 ```bash
 source venv/bin/activate
-
+### 
 ### 4️⃣ Install Requirements
 ```bash
 pip install -r requirements.txt
-
-###5️⃣ Run Migrations
+### 
+### 5️⃣ Run Migrations
 ```bash
 python manage.py migrate
-
-###6️⃣ Run Server
+### 
+### 6️⃣ Run Server
 ```bash
 python manage.py runserver
-
+### 
 👨‍💻 Author
 Kikani Meet Lalitbhai
 
